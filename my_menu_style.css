@@ -480,6 +480,11 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+
+#content main .table-data .todo .todo-list li div i{
+  padding-inline: 30px;
+}
+
 #content main .table-data .todo .todo-list li .bx {
   cursor: pointer;
 }
